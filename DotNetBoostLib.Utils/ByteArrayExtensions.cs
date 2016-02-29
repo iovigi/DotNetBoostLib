@@ -11,7 +11,7 @@
             {
                 throw new ArgumentNullException("buffer can't be null");
             }
-            dasdsa
+
             StringBuilder result = new StringBuilder();
 
             foreach(var item in buffer)
