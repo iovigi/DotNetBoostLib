@@ -1,4 +1,4 @@
-﻿namespace DotNetBoostLib.Utils
+﻿namespace DotNetBoostLib.Utils.Extensions
 {
     using System;
     using System.Text;

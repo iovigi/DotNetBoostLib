@@ -1,4 +1,4 @@
-﻿namespace DotNetBoostLib.Utils
+﻿namespace DotNetBoostLib.Utils.Math
 {
     using System;
     using System.Collections.Generic;
